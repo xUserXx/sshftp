@@ -18,7 +18,7 @@ void dump_line( FILE * fp ){
   printf(" \n");
 }
 
-void str_dump( char *str ){
+void str_format( char * str ){
 	int i  = strlen(str) - 1;
 
 	str[i] = '\0';
