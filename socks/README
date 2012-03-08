@@ -1,0 +1,22 @@
+#!/bin/bash
+echo " "
+echo " "
+echo "## Remote Shell by UserX - Anonymous Focus ::"
+echo " "
+echo "## The focus of this program is make the local system vulerable to hacking by remote users. You can choose any port you want, but"
+echo "## if you want some advice: Do not choose any port below 1024. Couse these ports will need root password."
+echo "## Usage: $ bindshell <port-to-open-on-local-system>"
+echo " "
+echo "## To connect to remote system running this program, just type: "
+echo "$ nc <system_with_program_running> <port chosed>"
+echo " "
+
+echo "## I know this is a simple program and there's nothing special to learn with that, but, I really want to give some information..."
+echo "## I believe that there's someone outside looking for something like this, I'm just trying to help..."
+echo "## Sorry about something wrong or my limited knowledge..."
+echo " "
+echo " "
+echo "                               ::  By UserX ::"
+
+echo " "
+echo " "
